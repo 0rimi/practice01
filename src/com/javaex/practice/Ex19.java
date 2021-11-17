@@ -8,7 +8,7 @@ public class Ex19 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-			long dis = 300000*60*60*24*365L;
+			long dis = 300000l*60*60*24*365;
 			System.out.println("빛이 1년동안 가는 거리는 "+dis+"km 입니다.");
 		
 		sc.close();
